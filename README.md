@@ -1,4 +1,5 @@
 # presentation-golang-microthingy
-These are the example files I used in my presentation about "Writing your first Golang Microthingy".
+These are the example files I used in my "Writing your first Golang Microthingy" presentation.
 
-The link to the presentation and the actual example files will be added after the presentation has been finished.
+The presentation can be found on my blog [Edenmal](https://edenmal.moe/) here: [Writing your first Golang Microthingy Presentation](https://edenmal.moe/2017/11/05/Writing-your-first-Golang-Microthingy-Presentation/).
+
